@@ -1,3 +1,5 @@
+Cette version est traduite en français par shorty @ <a href="http://www.tradezone.fr">TradeZone.fr</a>
+
 # 2048-in-php
 
 <h1>About</h1>
