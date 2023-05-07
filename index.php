@@ -815,12 +815,26 @@ if(isset($_GET["page"])){
 			<article class="hbox">
 				<header>
 					<h1>
-						Plus de services !
+						About me
 					</h1>
 				</header>
 				<div class="article_body">
 					<p>
-						Retrouvez les sites de la communauté de troc de puis le portail de la plateforme <a href="http://www.tradezone.fr">TradeZone.fr</a> !
+						You want to know about me do ya?
+						<br/><br/>
+						I'm Nicolas Candela, also known as Darkxell.
+						<br/>
+						I love programming, obviously, and computing in general. This project 
+						is a little challenge for me, because I want a 2048 game in only one
+						file, with no Javascript, no Cookies and no Flash. Here's the result!
+						<br/><br/>
+						I also love nekos, but that's not the point. You can mail me if you want
+						to know something about me, want a collab on a project or if you are a 
+						neko yourself.
+						<br/><br/>
+						Love ya!
+						<br/><br/>
+						<a href="mailto:darkxell.mc@gmail.com">Mail me</a>
 					</p>
 				</div>
 				<div class="hidden"><br/></div>
